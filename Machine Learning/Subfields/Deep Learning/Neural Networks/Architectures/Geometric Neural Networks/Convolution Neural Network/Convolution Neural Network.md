@@ -12,7 +12,7 @@
 # Advantages of CNNs
 
 ✅ **Parameter sharing** — the same filter is applied across the image → fewer parameters than fully connected nets.  
-✅ **[[Translation Invariance|Translation invariance]]** — detects features regardless of their position.  
+✅ **[[Translation invariance|Translation invariance]]** — detects features regardless of their position.  
 ✅ **Automatic feature extraction** — no need for manual feature engineering.  
 ✅ **Scalable and efficient** for high-dimensional inputs like images.
 

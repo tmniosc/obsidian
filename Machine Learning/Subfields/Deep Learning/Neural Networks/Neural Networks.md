@@ -1,21 +1,23 @@
 # Overview
 
-A **Neural Network (NN)** is a computational model inspired by the human brain. It consists of interconnected nodes (**neurons**) that can learn complex patterns from data.
-**Mechanism:** Each neuron computes a weighted sum of inputs, applies a **non-linear activation**, and passes it forward
+A **Neural Network (NN)** is a computational model composed of interconnected processing units (**neurons**) that learn complex mappings from input to output data through **weighted connections** and **non-linear activations**.
 
-# Core Architecture
-| Architecture                   | Input Type               | Core Mechanism         | Example Applications        |
-| ------------------------------ | ------------------------ | ---------------------- | --------------------------- |
-| Feedforward Neural Network     | Fixed-size vector        | Fully connected layers | Tabular data, regression    |
-| [[Convolution Neural Networks]] | Grid-like (image, video) | Convolutions & pooling | Image recognition, CV       |
-| Recurrent Neural Network       | Sequential data          | Loops, temporal state  | Text, audio, time series    |
-| [[Graph neural network]]       | Graph-structured         | Message passing        | Networks, molecules, graphs |
+It can learn representations across different data domains — from simple fixed-size vectors to structured or geometric data such as grids, sequences, and graphs.
+# Architectures
+| **Category**                      | **Architecture**                           | **Input Type**              | **Geometric Type**                     | **Examples / Applications**                  | **[[Inductive Bias]]**                                                                     |
+| --------------------------------- | ------------------------------------------ | --------------------------- | -------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Non-Geometric Neural Networks** | **Feedforward Neural Network (FNN / MLP)** | Fixed-size vector           | ❌ None (non-geometric)                 | Tabular data, regression, classification     | No structural bias; treats inputs independently                                            |
+|                                   | **[[Recurrent Neural Network]] (RNN)**     | Sequential (1D)             | ⚪ 1D Euclidean (temporal / sequential) | Text, speech, time series                    | Sequential / temporal dependency; shared weights over time                                 |
+| **[[Geometric Neural Networks]]** | **[[Convolution Neural Network]] (CNN)**   | Grid-like (2D/3D Euclidean) | ✅ Euclidean (spatial)                  | Image, video, computer vision                | Locality (neighboring pixels), translation equivariance, weight sharing                    |
+|                                   | **[[Graph neural network]] (GNN)**         | Graph-structured data       | ✅ Non-Euclidean (relational / graph)   | Social networks, molecules, knowledge graphs | Relational / topological bias; permutation invariance; local aggregation (message passing) |
+|                                   | **Point-based / Mesh / Manifold Networks** | Point clouds, 3D surfaces   | ✅ Non-Euclidean (geometric / manifold) | 3D vision, robotics, physical simulation     | Geometric / spatial bias; invariance to point ordering; local neighborhood aggregation     |
 - [[Visualize Architecture of Neural Network]]
 # Foundations of Neural Networks
 - [[Universal Approximation Theorem]] (UAT)  
 - [[Perceptron]]
 - [[Gradient Descent]]
 - [[Backpropagation]]
+- [[Loss Landscape]]
 ## Links
 
 ### Books

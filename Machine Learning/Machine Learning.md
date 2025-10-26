@@ -177,24 +177,15 @@ Machine Learning
       └── Agentic AI (AutoGPT, Voyager, ReAct)
 ```
 
-## Mathematical Foundations
-
-```
-Mathematical Foundation
-│
-├── 1️⃣ Linear Algebra
-├── 2️⃣ Calculus (Optimization)
-├── 3️⃣ Probability & Statistics
-├── 4️⃣ Discrete Mathematics & Information Theory
-└── 5️⃣ Numerical Methods / Algorithms
-```
-[[Mathematical Foundations|See More]]
-
-## Deep learning
-
-A subfield of ML that uses _deep neural networks_ (many layers) to automatically learn representations from data.
-
-[[Deep Learning|See More]]
+## Concepts
+- [[Mathematical Foundations]]
+- [[Inductive Bias]]
+- [[No free lunch theorem]]
+- [[Curse of Dimensionality]]
+- [[Feature Extraction]]
+- [[Data Augmentation]]
+# Subfields
+- [[Deep Learning]]
 # Categories
 - [[Supervised Learning]]
 - [[Self-Supervised Learning]] 
@@ -252,6 +243,7 @@ A subfield of ML that uses _deep neural networks_ (many layers) to automatically
 - [1909.03550](https://arxiv.org/pdf/1909.03550)
 - [CS229br Foundations of Deep Learning (aka Topics in the Foundations of Machine Learning)](https://boazbk.github.io/mltheoryseminar/)
 - [6.390 | IntroML | Fall25](https://introml.mit.edu/fall25)
+- [Intro and Overview Machine Learning Lecture — Machine Learning Lecture](https://maucher.pages.mi.hdm-stuttgart.de/mlbook/intro.html)
 ## Repositories
 - [AMAI-GmbH/AI-Expert-Roadmap: Roadmap to becoming an Artificial Intelligence Expert in 2022](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
@@ -312,6 +304,7 @@ A subfield of ML that uses _deep neural networks_ (many layers) to automatically
 - [AI 2027](https://ai-2027.com/)
 - [ML Code Challenges - Deep-ML](https://www.deep-ml.com/)
 - [There's An AI For That | AI Database](https://theresanaiforthat.com/?ref=producthunt)
+- [Distill — Latest articles about machine learning](https://distill.pub/)
 ## Blogs
 - [Juergen Schmidhuber's home page - Universal Artificial Intelligence - AI - Deep Learning - Recurrent Neural Networks - Computer Vision - Object Detection - Image segmentation - GANs - Transformers with linearized self-attention - Goedel Machine - Theory of everything - Algorithmic theory of everything - Computable universe - Zuse's thesis - Universal learning algorithms - Universal search - Kolmogorov Complexity - Algorithmic information - Super Omega - Speed Prior - Independent component analysis - ICA - Financial forecasting - Evolution - Reinforcement learning - POMDPs - Reinforcement learning economy - Hierarchical learning - Metalearning - Learning to learn - Self-Improvement - Genetic programming - Attentive vision - Active exploration - Theory of beauty - Theory of creativity - Theory of Humor - Facial Attractiveness - Low-complexity Art - Lego Art](https://people.idsia.ch/~juergen/)
 - [Polo Club of Data Science @ Georgia Tech: Human-Centered AI, Deep Learning Interpretation & Visualization, Cybersecurity, Large Graph Visualization and Mining | Georgia Tech | Atlanta, GA 30332, United States](https://poloclub.github.io/)

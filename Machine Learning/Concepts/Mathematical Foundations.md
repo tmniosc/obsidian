@@ -1,3 +1,15 @@
+# Overview
+
+```
+Mathematical Foundation
+│
+├── 1️⃣ Linear Algebra
+├── 2️⃣ Calculus (Optimization)
+├── 3️⃣ Probability & Statistics
+├── 4️⃣ Discrete Mathematics & Information Theory
+└── 5️⃣ Numerical Methods / Algorithms
+```
+
 # Links
 ## Videos
 - [The Math Needed for AI/ML (Complete Roadmap) - YouTube](https://www.youtube.com/watch?v=YZOAiJmnNvc)

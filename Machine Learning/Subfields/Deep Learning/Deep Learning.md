@@ -5,11 +5,9 @@
 > “Deep Learning learns directly from raw data — images, text, sound — without needing humans to design features.”
 
 Example:
-
-- Instead of manually defining “edge” or “color” features for an image, a _Convolutional Neural Network (CNN)_ learns them automatically from pixels.
+-  Instead of manually defining “edge” or “color” features for an image, a _Convolutional Neural Network (CNN)_ learns them automatically from pixels.
 
 At its core, Deep Learning is built around **[[Neural Networks]] (NNs)** — computational models inspired by how the brain works.
-
 # Links
 
 ## Tutorials
@@ -41,6 +39,7 @@ At its core, Deep Learning is built around **[[Neural Networks]] (NNs)** — com
 - [jeffprosise/Deep-Learning](https://github.com/jeffprosise/Deep-Learning/tree/master)
 - [ritchieng/deep-learning-wizard: Open source guides/codes for mastering deep learning to deploying deep learning in production in PyTorch, Python, Apptainer, and more.](https://github.com/ritchieng/deep-learning-wizard)
 - [fchollet/deep-learning-with-python-notebooks: Jupyter notebooks for the code samples of the book "Deep Learning with Python"](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [deeplearningnerds (Deep Learning Nerds)](https://github.com/deeplearningnerds/)
 ## Programming Libraries
 ### Low-level
 

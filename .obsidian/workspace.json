@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Convolution Neural Networks/Translation Invariance/Translation invariance.md",
-                "mode": "preview",
+                "file": "Machine Learning/Machine Learning.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Translation invariance"
+              "title": "Machine Learning"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Convolution Neural Networks/Translation Invariance/Translation invariance.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Translation invariance"
+              "title": "Outline of Machine Learning"
             }
           }
         ],
@@ -171,44 +171,44 @@
   },
   "active": "9a558d506692c931",
   "lastOpenFiles": [
+    "Machine Learning/Concepts/Data Augmentation.md",
+    "Machine Learning/Concepts/Mathematical Foundations.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/Categories/Reinforcement Learning/Hierarchical RL.md",
-    "Machine Learning/Categories/Reinforcement Learning/Meta-RL (RL², PEARL).md",
-    "Machine Learning/Categories/Supervised Learning/Classification/Classification.md",
-    "Machine Learning/Deep Learning/Deep Learning.md",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Graph Neural Network/Graph neural network.md",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Convolution Neural Networks/Translation Invariance/Translation invariance.md",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Convolution Neural Networks/Convolution Neural Networks.md",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Convolution Neural Networks/Translation Invariance",
-    "Machine Learning/Deep Learning/Neural Networks/Neural Networks.md",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Visualize Architecture of Neural Network.md",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/CNN/Untitled",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Graph Neural Network",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/Convolution Neural Networks",
-    "Machine Learning/Deep Learning/Neural Networks/Foundations of Neural Networks/Perceptron.md",
-    "Machine Learning/Deep Learning/Neural Networks/Foundations of Neural Networks/Gradient Descent.md",
-    "Machine Learning/Deep Learning/Neural Networks/Foundations of Neural Networks/Backpropagation.md",
-    "Machine Learning/Deep Learning/Neural Networks/Foundations of Neural Networks/Universal Approximation Theorem.md",
-    "Machine Learning/Categories/Transfer Learning/Transfer Learning.md",
-    "Machine Learning/Categories/Transfer Learning/Multi-task Learning/Multi-task Learning.md",
-    "Machine Learning/Categories/Transfer Learning/Domain Adaptation/Domain Adaptation.md",
-    "Machine Learning/Categories/Transfer Learning/Feature-based Transfer/Feature-based Transfer.md",
-    "Machine Learning/Mathematical Foundations.md",
-    "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/Autoencoder (AE)/Autoencoder (AE).md",
-    "Machine Learning/Categories/Unsupervised Learning/Clustering/Clustering.md",
-    "Machine Learning/Categories/Unsupervised Learning/Unsupervised Learning.md",
-    "Machine Learning/Deep Learning/Neural Networks/Architecture/Untitled",
-    "Machine Learning/Deep Learning/Neural Networks/Neural Networks Architecture",
-    "Machine Learning/Deep Learning/Neural Networks/Foundations of Neural Networks",
-    "Machine Learning/Deep Learning/Neural Networks",
-    "Machine Learning/Deep Learning/Mathematical Foundations/Mathematical Foundations.md",
-    "Machine Learning/Deep Learning/Mathematical Foundations",
+    "Machine Learning/Subfields/Deep Learning/Deep Learning.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Graph Neural Network/Graph neural network.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Neural Networks.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Convolution Neural Network/Convolution Neural Network.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Convolution Neural Network/Translation Invariance/Translation invariance.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Gradient Descent.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Loss Landscape.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Loss Landscape",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Loss Landscape",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Perceptron.md",
+    "Machine Learning/Concepts/Feature Extraction.md",
+    "Machine Learning/Concepts/No free lunch theorem.md",
+    "Untitled.canvas",
+    "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/PCA, ICA, t-SNE, UMAP/PCA.md",
     "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/Dimensionality Reduction.md",
     "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/PCA, ICA, t-SNE, UMAP/PCA, ICA, t-SNE, UMAP.md",
-    "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/PCA, ICA, t-SNE, UMAP/PCA.md",
+    "Machine Learning/Categories/Unsupervised Learning/Clustering/Clustering.md",
+    "Machine Learning/Concepts/Curse of Dimensionality.md",
+    "Machine Learning/Concepts/Inductive Bias.md",
+    "Machine Learning/Concepts/Untitled",
+    "Machine Learning/Subfields",
+    "Machine Learning/Concepts",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Geometric Neural Networks.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Recurrent Neural Network/Recurrent Neural Network.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Recurrent Neural Network",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks",
+    "Convolutional Neural Network.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Visualize Architecture of Neural Network.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Backpropagation.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Universal Approximation Theorem.md",
+    "Machine Learning/Mathematical Foundations.md",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Convolution Neural Network/Translation Invariance",
+    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/CNN/Untitled",
+    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures",
     "TNG Projects/Assets/messageImage_1761305318275.jpg",
-    "TNG Projects/Assets/messageImage_1761305325630.jpg",
-    "Untitled.canvas"
+    "TNG Projects/Assets/messageImage_1761305325630.jpg"
   ]
 }

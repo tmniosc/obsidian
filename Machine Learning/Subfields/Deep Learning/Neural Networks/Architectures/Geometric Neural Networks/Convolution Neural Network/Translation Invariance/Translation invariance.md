@@ -5,20 +5,14 @@
 
 - A system is **translation invariant** if the **output does not change (or changes very little)** when an object in the input **shifts its position**.
 - In other words, a **CNN can recognize the same feature even if it appears at different locations in the image**.
-Example:
-
-| Image           | Shifted          | CNN Recognition            |
-| --------------- | ---------------- | -------------------------- |
-| Cat in top-left | Cat in top-right | CNN still recognizes “cat” |
-|                 |                  |                            |
 ## Why CNNs Have Translation Invariance
 
 Main mechanisms:
 1. **Convolution + Parameter Sharing**
 - Filters (kernels) **share weights across the whole image**.
 - Each filter scans the entire image → detects the feature wherever it appears.
-- 
-1. **Pooling (Max/Average Pooling)**
+
+2. **Pooling (Max/Average Pooling)**
 - Reduces the spatial size of feature maps, making the network **less sensitive to small shifts**.
 - Example: Max pooling over 2×2 regions → exact feature location becomes less important.
 
