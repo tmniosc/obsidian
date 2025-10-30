@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a558d506692c931",
+            "id": "fa4eb6d1658dfd0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machine Learning"
+              "title": "Algebra"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "neuralnetworksanddeeplearning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 399.5
   },
   "right": {
     "id": "72d1f9624044810c",
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
-                "collapseAll": false,
+                "file": "Machine Learning/Concepts/Inductive Bias.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Machine Learning"
+              "title": "Backlinks for Inductive Bias"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Machine Learning/Applications/Anomaly Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Machine Learning"
+              "title": "Outgoing links from Anomaly Detection"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Algebra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Machine Learning"
+              "title": "Outline of Algebra"
             }
           }
         ],
@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,45 +169,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "9a558d506692c931",
+  "active": "fa4eb6d1658dfd0d",
   "lastOpenFiles": [
-    "Machine Learning/Concepts/Data Augmentation.md",
-    "Machine Learning/Concepts/Mathematical Foundations.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Subfields/Deep Learning/Deep Learning.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Graph Neural Network/Graph neural network.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Neural Networks.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Convolution Neural Network/Convolution Neural Network.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Convolution Neural Network/Translation Invariance/Translation invariance.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Gradient Descent.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Loss Landscape.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Loss Landscape",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Loss Landscape",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Perceptron.md",
-    "Machine Learning/Concepts/Feature Extraction.md",
-    "Machine Learning/Concepts/No free lunch theorem.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Foundations/Set Theory.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Foundations/Category Theory.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Foundations/Mathematical Logic.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Foundations.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Discrete mathematics.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Geometry & Topology.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Algebra.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Analysis.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Applied Mathematics.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics.md",
+    "My Second Brain.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics/Foundations",
+    "Science And Technology/Mathematics/Mathematicians.md",
+    "Science And Technology/Mathematics/History of Mathematics.md",
+    "Science And Technology/Mathematics.md",
+    "Science And Technology/Mathematics/Branches of Mathematics",
+    "Science And Technology/Thoughts.md",
+    "Engineering/Computing/Machine Learning.md",
+    "Science And Technology/Mathematics/Branches of Mathematics/Applied Mathematics",
+    "Science And Technology/Mathematics/Branches of Mathematics/Pure Mathematics",
+    "Engineering/Computing/Machine Learning/Subfields/Deep Learning.md",
+    "Engineering/Computing/Computer Vision.md",
+    "Engineering/Computing/Machine Learning/Subfields/Deep Learning/Neural Networks.md",
+    "Engineering/Computing/Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/Autoencoder (AE).md",
+    "Engineering/Computing/Data Science.md",
+    "Engineering/Computing/Machine Learning/Subfields/Deep Learning/History of Deep Learning.md",
+    "Engineering/Computing/Data Science/Data Visualization.md",
+    "Engineering/Computing/Machine Learning/Concepts/Inductive Bias.md",
+    "Engineering/Computing/Machine Learning/Concepts/Mathematical Foundations.md",
+    "Engineering/Computing/Machine Learning/Concepts/Curse of Dimensionality.md",
+    "Science And Technology/Untitled",
+    "Science And Technology/Thoughts",
+    "Science And Technology/Physics",
+    "Science And Technology/Mathematics",
+    "Science And Technology",
+    "Engineering/Computing/Computer Vision",
     "Untitled.canvas",
-    "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/PCA, ICA, t-SNE, UMAP/PCA.md",
-    "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/Dimensionality Reduction.md",
-    "Machine Learning/Categories/Unsupervised Learning/Dimensionality Reduction/PCA, ICA, t-SNE, UMAP/PCA, ICA, t-SNE, UMAP.md",
-    "Machine Learning/Categories/Unsupervised Learning/Clustering/Clustering.md",
-    "Machine Learning/Concepts/Curse of Dimensionality.md",
-    "Machine Learning/Concepts/Inductive Bias.md",
-    "Machine Learning/Concepts/Untitled",
-    "Machine Learning/Subfields",
-    "Machine Learning/Concepts",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Geometric Neural Networks.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Recurrent Neural Network/Recurrent Neural Network.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Recurrent Neural Network",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks",
-    "Convolutional Neural Network.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Visualize Architecture of Neural Network.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Backpropagation.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Foundations of Neural Networks/Universal Approximation Theorem.md",
-    "Machine Learning/Mathematical Foundations.md",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures/Geometric Neural Networks/Convolution Neural Network/Translation Invariance",
-    "Machine Learning/Deep Learning/Neural Networks/Core Architectures/CNN/Untitled",
-    "Machine Learning/Subfields/Deep Learning/Neural Networks/Architectures",
     "TNG Projects/Assets/messageImage_1761305318275.jpg",
     "TNG Projects/Assets/messageImage_1761305325630.jpg"
   ]
